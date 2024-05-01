@@ -1,0 +1,27 @@
+.container {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.LPTitle {
+  height: 30%;
+}
+
+.LPUsers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow-y: auto;
+  height: 50%;
+}
+
+.LPButtons {
+  display: flex;
+  height: 17%;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
