@@ -1,0 +1,14 @@
+.gameOver {
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  overflow-y: auto;
+}
+
+.bottomSection {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
